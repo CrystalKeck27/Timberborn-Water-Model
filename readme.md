@@ -1,0 +1,3 @@
+This repo holds data about the water physics used in Timberborn.
+
+Big thanks goes out to Tim Lin on youtube  (https://www.youtube.com/@timlin9456) for giving me the motivation to create this model. Some of the terms defined in this repo come from their Guide to Perpetual Motion Machines | Part 1 (https://www.youtube.com/watch?v=sEbKUBysQzQ). I highly suggest watching that video to get a more visual representation of the ideas in this repo.
